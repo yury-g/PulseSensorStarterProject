@@ -1,9 +1,9 @@
-![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
-
-## Donation
-This project helped you?  Buy us a green-tea:
+This project helped you?  Donate $ for food and microchips.
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ND2SK5LUPKP8Y)
+---------------------------------------------------------------------------------
 
+
+##![logo](https://avatars0.githubusercontent.com/u/7002937?v=3&s=200)
 
 ## Getting Started Code / <a href="http://www.pulsesensor.com">PulseSensor</a>  & <a href="http://arduino.cc/"> "Arduino"</a>
 
